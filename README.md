@@ -1,2 +1,2 @@
-# Ribbi
+# Ribbit
 My first serious android application
